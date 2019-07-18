@@ -3,7 +3,8 @@
 ### 1.Basic
 >1.decorator.py：装饰器
 >
->2.dictdefaultOrderdictCounter.py：defaultdict（访问不存在的key值不会报错，返回默认类型初始值）、OrderedDict（有序字典）、Counter（计数器）
+>2.dictdefaultOrderdictCounter.py：
+>defaultdict（访问不存在的key值不会报错，返回默认类型初始值）、OrderedDict（有序字典）、Counter（计数器）
 >
 >3.generator.py：生成器
 >

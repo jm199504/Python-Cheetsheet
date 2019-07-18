@@ -1,6 +1,6 @@
 # 创建tuple
 t1 = (1,2,3)
-# 访问元祖
+# 访问元组
 print(t1[0])
 # 连接多个元组
 t2 = (4,5,6)
@@ -19,7 +19,3 @@ SCU = namedtuple('Master','name age grade')
 Jim = SCU(name='Jim',age=23, grade=2)
 print('This student is %s, %s years, and grade is %s'%Jim)
 # Output:This student is Jim, 23 years, and grade is 2
-
-
-
-

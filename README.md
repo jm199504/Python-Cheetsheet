@@ -1,19 +1,18 @@
 ## Python-Cheetsheet
 
 ### 1.Basic
-1.decorator.py：装饰器
+>1.decorator.py：装饰器
+>2.dictdefaultOrderdictCounter.py：defaultdict（访问不存在的key值不会报错，返回默认类型初始值）、OrderedDict（有序字典）、Counter（计数器）
 
-2.dictdefaultOrderdictCounter.py：defaultdict（访问不存在的key值不会报错，返回默认类型初始值）、OrderedDict（有序字典）、Counter（计数器）
+>3.generator.py：生成器
 
-3.generator.py：生成器
+>4.iterator.py：迭代器
 
-4.iterator.py：迭代器
+>5.listdeque.py：list（列表）、deque（队列）
 
-5.listdeque.py：list（列表）、deque（队列）
+>6.setfrozenset.py：set（集合）、frozenset（冻结集合：不能再添加或者删除元素，添加/移除元素要报错）
 
-6.setfrozenset.py：set（集合）、frozenset（冻结集合：不能再添加或者删除元素，添加/移除元素要报错）
-
-7.tuplenamedtuple.py：tuple（元组）、namedtuple（命名元组）
+>7.tuplenamedtuple.py：tuple（元组）、namedtuple（命名元组）
 
 ### 2.matplotlib
 1.3D_scatter.py：3D散点图
@@ -29,8 +28,8 @@
 11.subplot.py：子图
 
 ### 3.numpy
-1.numpy_basis.py：基础用法
-2.numpy_senior.py：高级用法
+>1.numpy_basis.py：基础用法
+>2.numpy_senior.py：高级用法
 
 ### 4.pandas
 1.panda_merge.py：合并
